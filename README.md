@@ -4,7 +4,7 @@
 
 My name is Max, I'm a Software Developer. I stubbornly use VS Code in VIM mode, I love the command line and couldn't live without tmux or zsh. I miss the days of SSHing into production servers and updating the live site, however I've been able to live with satisfaction in building great CI/CD system.
 
-I've written lots of code for lots of different reasons, in lots of different languages, some highlights have been
+I've written lots of code, for lots of different reasons, in lots of different languages, some highlights have been
 
 - Engineering a common build and deploy system, then rolling it out to dozens of teams and applications
 - Hitting a 95% cache offload and keeping backend servers alive during a 400% growth period in the peak of COVID

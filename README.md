@@ -18,4 +18,4 @@ These days I write less code and spend more time working with Product Managers t
 - 🌱 I'm currently learning about Federated GraphQL
 - 📫 How to reach me: maxlew@gmail.com
 
-My personal website - (maxlew.is)[https://maxlew.is] - is a little bit of a joke at the moment. But when I'm looking for work again you'll be able to find my resume there.
+My personal website - [maxlew.is](https://maxlew.is) - is a little bit of a joke at the moment. But when I'm looking for work again you'll be able to find my resume there.

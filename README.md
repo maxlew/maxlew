@@ -13,9 +13,8 @@ I've written lots of code, for lots of different reasons, in lots of different l
 
 These days I write less code and spend more time working with Product Managers to build Story Maps, Flowcharts, Documentation and project plans. Basically, my job is to remove any roadblocks that would normally get in a developers way.
 
-- 🔭 I’m currently working at [Aesop](https://www.aesop.com/au/) as a Technical Lead 
+- 🔭 I’m currently working at Seek/Jora as a Staff Engineer
 - 💬 Ask me about GraphQL, Github Actions, Javascript, Serverless
-- 🌱 I'm currently learning about Federated GraphQL
 - 📫 How to reach me: maxlew@gmail.com
 
 My personal website - [maxlew.is](https://maxlew.is) - is a little bit of a joke at the moment. But when I'm looking for work again you'll be able to find my resume there.
